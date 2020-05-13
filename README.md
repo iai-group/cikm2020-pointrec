@@ -4,7 +4,7 @@ POINTREC is a test collection for point of interest (POI) recommendation, compri
 
 ### Information needs
 
-The [infoneeds.json](infoneeds.json) file contains a set of 122 information needs, which were manually collected and enriched with metadata from Yahoo! Answers and Reddit.
+The [infoneeds.json](infoneeds.json) file contains a set of 112 information needs, which were manually collected and enriched with metadata from Yahoo! Answers and Reddit.
 
 
 ### POI dataset
