@@ -9,7 +9,7 @@ The [infoneeds.json](infoneeds.json) file contains a set of 112 information need
 
 ### POI dataset
 
-The [poi_dataset/](poi_dataset/) folder contains the following: TODO
+The [poi_dataset/](poi_dataset/) folder contains our POIs collection, organized by countries (folders) and cities (JSON files). 
 
 
 ### Relevance assessments
